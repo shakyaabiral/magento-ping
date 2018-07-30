@@ -1,0 +1,5 @@
+# app/code
+app/code/local/Quark/Ping                           app/code/local/Quark/Ping
+
+# app/etc
+app/etc/modules/Quark_Ping.xml                     app/etc/modules/Quark_Ping.xml

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Mage_Catalog>
+            <version>1.0.0</version>
+        </Mage_Catalog>
+    </modules>
+    <frontend>
+        <routers>
+            <catalog>
+                <use>standard</use>
+                <args>
+                    <module>Quark_Ping</module>
+                    <frontName>ping</frontName>
+                </args>
+            </catalog>
+        </routers>
+    </frontend>
+</config>
