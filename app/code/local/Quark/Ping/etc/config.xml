@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Mage_Catalog>
+        <Quark_Ping>
             <version>1.0.0</version>
-        </Mage_Catalog>
+        </Quark_Ping>
     </modules>
     <frontend>
         <routers>
