@@ -1,2 +1,6 @@
-# Ping Endpoint
-A simple ping endpoint for Magento
+# Ping Endpoint for Magento  
+A simple /ping endpoint for magento healthcheck.  
+Can be used as health check endpoint for loadbalancers.  
+  
+Echoes `Pong` if everything is working fine  
+
