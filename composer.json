@@ -1,0 +1,14 @@
+{
+    "name": "quark/ping",
+    "type": "magento-module",
+    "description": "A /ping endpoint for magento",
+    "authors": [
+        {
+            "name": "Abiral Shakya",
+            "email": "shakyaabiral@gmail.com"
+        }
+    ],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
