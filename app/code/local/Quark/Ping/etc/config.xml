@@ -7,13 +7,13 @@
     </modules>
     <frontend>
         <routers>
-            <catalog>
+            <quark_ping>
                 <use>standard</use>
                 <args>
                     <module>Quark_Ping</module>
                     <frontName>ping</frontName>
                 </args>
-            </catalog>
+            </quark_ping>
         </routers>
     </frontend>
 </config>
