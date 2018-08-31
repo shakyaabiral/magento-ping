@@ -1,6 +1,7 @@
 {
     "name": "quark/ping",
     "type": "magento-module",
+    "license": "MIT",
     "description": "A /ping endpoint for magento",
     "authors": [
         {
